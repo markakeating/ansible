@@ -1,0 +1,2 @@
+test-01 ansible_host=test-01.ad.the-keatings.com ansible_user=root ansible_private_key_file=/root/ansible/ansible/.ssh/ansible_key.pem 
+test-02 ansible_host=test-02.ad.the-keatings.com ansible_user=root ansible_private_key_file=/root/ansible/ansible/.ssh/ansible_key.pem 
